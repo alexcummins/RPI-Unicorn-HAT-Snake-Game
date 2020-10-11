@@ -5,7 +5,7 @@ Uses Tkinter to capture keyboard input, run and play on RPI.
 
 * https://shop.pimoroni.com/products/unicorn-hat
 
-Created by Alex Cummins in probably like 2016 or earlier.
+Created by Alex Cummins in probably like 2015 or earlier.
 
 # Instructions
 
